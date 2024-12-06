@@ -1,2 +1,2 @@
 # ProHub
-10000+ mini web projects using HTML, CSS &amp; JS
+This is the main repository for all of the projects using HTML, CSS, JavaScript.
